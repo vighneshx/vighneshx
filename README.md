@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ⧓ Student ⧓ Red Teamer ⧓ Software Developer
 -------------------------------------------
 
-☞ {SEC565} As a Red Teamer (Adversary Emulation Specialist) and a current student, I am dedicated to understanding and overcoming security challenges from an adversary's perspective.
+⋈ {SEC565} As a Red Teamer (Adversary Emulation Specialist) and a current student, I am dedicated to understanding and overcoming security challenges from an adversary's perspective.
 
 ⨝ In this role, I am tasked with examining problems and scenarios through the lens of a potential threat actor. My primary goal is to enhance the Blue Team's effectiveness by rigorously testing and evaluating the organization’s detection and response strategies, procedures, and technologies. This involves performing adversary emulation exercises, where I replicate the tactics, techniques, and procedures (TTPs) of real-world adversaries to achieve specific objectives. Additionally, I develop custom implants and Command and Control (C2) frameworks designed to bypass detection. 
 
