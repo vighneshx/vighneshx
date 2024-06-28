@@ -7,7 +7,7 @@
 ```
                                                                                                                                                                                                                                                                                                
 <div align="center">
-	<img src="https://github.com/vighneshx/vighneshx/assets/96537491/b3fdbec7-42a2-490f-8e68-cf4155525902">
+	<img src="video.gif">
 </div>
 
 ⧓ Student ⧓ Red Teamer ⧓ Software Developer
