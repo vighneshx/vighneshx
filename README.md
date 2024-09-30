@@ -1,31 +1,29 @@
-```plaintext
-							  
-					 _  _ _ ____ _  _ _  _ ____ ____  _  _ 
-					 |  | | | __ |__| |\ | |___ [__  |__| 
-					  \/  | |__] |  | | \| |___ ___] |  |   
-							  
-```
-                                                                                                                                                                                                                                                                                               
-<div align="center">
-	<img src="dossier.gif">
-</div>
+### About Me
 
-⧓ Student ⧓ Red Teamer ⧓ Software Developer
--------------------------------------------
+I am **Vighnesh Lachman**, an 18-year-old Software Development student at Grafisch Lyceum Rotterdam, passionate about the fusion of technology, biochemistry, and informatics. My focus lies in leveraging computational methods to solve complex biological problems, particularly in the areas of genetics, DNA sequencing, and biomedical research. My commitment to innovation drives me to constantly expand my technical expertise and apply it to both software development and bioinformatics challenges.
 
-⋈ As a Red Teamer {Adversary Emulation Specialist} and a current student, I am dedicated to understanding and overcoming security challenges from an adversary's perspective.
+Curiosity fuels my work—whether it's developing software solutions, exploring the latest in bioinformatics, or writing detailed scientific blogs. I strive to merge theory with practical application, contributing to advancements in both technology and science.
 
-⨝ In this role, I am tasked with examining problems and scenarios through the lens of a potential threat actor. My primary goal is to enhance the Blue Team's effectiveness by rigorously testing and evaluating the organization’s detection and response strategies, procedures, and technologies. This involves performing adversary emulation exercises, where I replicate the tactics, techniques, and procedures {TTPs} of real-world adversaries to achieve specific objectives. Additionally, I develop custom implants and Command and Control {C2} frameworks designed to bypass detection. 
+### Key Interests and Activities
+- **Software Development:** Innovating solutions that seamlessly integrate advanced technologies and user-friendly design.
+- **Bioinformatics Research:** Exploring computational approaches to understand biological data, with an emphasis on genome analysis and molecular biology.
+- **Writing:** Producing in-depth articles and technical documentation on biochemistry and bioinformatics for both academic and practical audiences.
+- **Inventing:** Developing solutions that blend software engineering with scientific discovery.
 
-⨝ I have a passion for complex logic and problem-solving, which I discovered at a young age when I first encountered the internet. Understanding how to navigate and leverage the vast resources of the internet has empowered me immensely. I thrive on the challenge of cracking codes and uncovering hidden secrets, particularly those that are not publicly known. This fascination drives my interest in cybersecurity and fuels my commitment to mastering the art of adversary emulation.
+### Advanced Technical Skills & Toolsets
 
- ⨝ In my journey, I continuously seek to learn and grow, staying abreast of the latest developments in cybersecurity to sharpen my skills and improve my craft. Whether through academic pursuits or hands-on experience, I am dedicated to becoming an expert in identifying and mitigating threats, ultimately contributing to the creation of more secure digital environments.
-
-*   🌍  I'm based in The Netherlands
-*   🖥️  See my portfolio at [Portfolio](http://vighnesh.nl/)
-*   ✉️  You can contact me at [xthreatcommando@gmail.com](mailto:xthreatcommando@gmail.com)
-
-### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
+- **Programming Languages:** Python (Advanced), JavaScript, PHP, HTML5, CSS3, Bash scripting
+- **Advanced Bioinformatics Tools:**
+  - **Genome Analysis & Variant Calling:** GATK, DeepVariant, VarScan
+  - **High-Throughput Data Analysis:** Galaxy, Nextflow, Bowtie2, QIIME 2
+  - **Sequence Alignment & Phylogeny:** MAFFT, BWA, PhyML
+  - **Transcriptomics:** Cufflinks, HISAT2, STAR
+  - **Genome Assembly:** SPAdes, Canu (long-read assembly), Flye
+  - **Molecular Visualization:** pyMOL
+  - **Bioinformatics Libraries:** Biopython
+- **Machine Learning for Bioinformatics:** TensorFlow, Keras (for deep learning applications in genomics)
+- **Frameworks & Libraries:** Svelte, pyMOL, Biopython, Pandas, NumPy, SciPy
+- **Version Control & Collaboration:** Git, GitHub, GitLab
+- **Database Management Systems:** MySQL, PostgreSQL, SQLite
+- **Cloud Computing:** Docker, AWS, Google Cloud (for scalable bioinformatics pipelines)
+- **Frontend Development Frameworks:** Bootstrap, TailwindCSS, Svelte
