@@ -1,4 +1,5 @@
-# Vighnesh Singh Lachman – Aerospace Engineering Student | Entrepreneur in Advanced Aerospace Technologies.
+## Vighnesh Singh Lachman 
+Aerospace Engineering Student | Entrepreneur in Advanced Aerospace Technologies.
 
 Hi there! I'm **Vighnesh**, a passionate aerospace engineer-in-training, aspiring to build autonomous drones, rockets, spacecraft, and to establish my own **AI-driven space program**. I combine **advanced mathematics, physics, computer science, and aerospace engineering** to design, simulate, and build cutting-edge aerospace systems.
 
