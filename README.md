@@ -45,8 +45,6 @@ SolidWorks, Fusion360, ANSYS, OpenRocket, STK, Docker, Git/GitHub, HPC/GPU compu
 ---
 
 ## 📈 GitHub Stats
-![Vighnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vighneshx&show_icons=true&theme=dark&count_private=true&hide=contribs)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshx&layout=compact&theme=dark)
 
 ---
