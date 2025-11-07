@@ -44,7 +44,7 @@ SolidWorks, Fusion360, ANSYS, OpenRocket, STK, Docker, Git/GitHub, HPC/GPU compu
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Favorite Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshx&layout=compact&theme=dark)
 
 ---
