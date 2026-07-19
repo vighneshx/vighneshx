@@ -21,21 +21,6 @@ Conventional rocketry remains constrained by the finite energy density of chemic
 
 Currently in active development, FusionX is laying the theoretical and engineering foundations required to transform fusion propulsion from scientific ambition into operational reality.
 
-## Vision
-
-To become a defining force in the future of space propulsion, enabling humanity's expansion beyond Earth through propulsion systems that are faster, more efficient, and more capable than anything the aerospace industry has produced before.
-
-## Mission
-
-To engineer, prototype, and ultimately deploy nuclear fusion rocket technology that fundamentally advances the feasibility of long-duration, deep-space missions, positioned at the forefront of next-generation aerospace innovation.
-
----
-
-## Status
-
-In Development. FusionX is currently in an active research and engineering phase.
-
----
 
 ## Credits
 
@@ -44,10 +29,6 @@ Vighnesh Lachman
 Zoetermeer, The Netherlands
 Of Indian heritage, born and raised in the Netherlands
 
----
-
 <div align="center">
-
-FusionX. Powering the Next Era of Space Exploration.
-
+  <b>FusionX. Powering the Next Era of Space Exploration.</b>
 </div>
